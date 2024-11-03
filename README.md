@@ -1,4 +1,12 @@
-## Hi there 👋
+EN:
+
+👋 Hi, I’m @AwolaneGod
+👀 I’m interested in: Coding
+♾️ PM - Telegram - @AwolaneGod 
+RU:
+👋 Здарова, я Аволейн
+👀 Меня интересует лишь кодинг
+♾️ Связь со мной ТОЛЬКО ТЕЛЕГРАМ - @AwolaneGod
 
 <!--
 **AwolaneGod/AwolaneGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
