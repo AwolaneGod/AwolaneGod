@@ -1,7 +1,7 @@
 EN:
 
 
-👋 Hi, I’m @AwolaneGod
+👋 Hi, I’m @AwolaneCode
 
 👀 I’m interested in: Coding
 
